@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T02:17:42.010Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="_MmK1cwezhmIPW9pN6jA" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T02:20:40.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="8Mw5rNfTSxVTx-JxUBoz" version="20.8.23" type="github">
   <diagram name="第 1 页" id="LN-BlfQK8SBuet2djH5t">
     <mxGraphModel dx="1387" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,13 +71,13 @@
           <mxGeometry x="334" y="460" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xZm4XHAqwVmXd4-ixebD-56" value="渠道支付服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#cdeb8b;strokeColor=#36393d;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="460" width="80" height="50" as="geometry" />
+          <mxGeometry x="445" y="460" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xZm4XHAqwVmXd4-ixebD-57" value="高速缓存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#cdeb8b;strokeColor=#36393d;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="460" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xZm4XHAqwVmXd4-ixebD-58" value="数据灾备" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#cdeb8b;strokeColor=#36393d;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="460" width="80" height="50" as="geometry" />
+          <mxGeometry x="660" y="460" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xZm4XHAqwVmXd4-ixebD-59" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&amp;nbsp; 安全控制&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#f9f7ed;verticalAlign=middle;strokeColor=#36393d;shadow=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="210" y="530" width="550" height="70" as="geometry" />
@@ -86,13 +86,13 @@
           <mxGeometry x="334" y="540" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xZm4XHAqwVmXd4-ixebD-61" value="权限管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#cdeb8b;strokeColor=#36393d;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="540" width="80" height="50" as="geometry" />
+          <mxGeometry x="445" y="540" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xZm4XHAqwVmXd4-ixebD-62" value="安全防护" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#cdeb8b;strokeColor=#36393d;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="540" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xZm4XHAqwVmXd4-ixebD-63" value="数据隔离" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#cdeb8b;strokeColor=#36393d;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="540" width="80" height="50" as="geometry" />
+          <mxGeometry x="660" y="540" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xZm4XHAqwVmXd4-ixebD-64" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&amp;nbsp; 管理层&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#f9f7ed;verticalAlign=middle;strokeColor=#36393d;shadow=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="210" y="610" width="550" height="70" as="geometry" />
@@ -101,7 +101,7 @@
           <mxGeometry x="334" y="620" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xZm4XHAqwVmXd4-ixebD-66" value="用户管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#cdeb8b;strokeColor=#36393d;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="620" width="80" height="50" as="geometry" />
+          <mxGeometry x="445" y="620" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xZm4XHAqwVmXd4-ixebD-67" value="组织管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#cdeb8b;strokeColor=#36393d;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="620" width="80" height="50" as="geometry" />
@@ -110,7 +110,7 @@
           <mxGeometry x="660" y="380" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xZm4XHAqwVmXd4-ixebD-70" value="商户管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#cdeb8b;strokeColor=#36393d;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="620" width="80" height="50" as="geometry" />
+          <mxGeometry x="660" y="620" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
